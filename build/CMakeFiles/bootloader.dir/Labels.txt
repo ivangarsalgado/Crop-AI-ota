@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/CMakeFiles/bootloader
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/CMakeFiles/bootloader.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/CMakeFiles/bootloader-complete.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/ivangarcia/Desktop/simple_ota_example/simple_ota_example/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
